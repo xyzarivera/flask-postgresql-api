@@ -1,4 +1,6 @@
-# flask-api-sqlalchemy
+# flask-postgresql-api
+
+Boilerplate for a Postgres database with API using Flask
 
 ## Installation
 

@@ -5,11 +5,14 @@ Boilerplate for a Postgres database with API using Flask
 ## Installation
 
 ```bash
-virtualenv venv -p /usr/bin/python3
-source venv/bin/activate
+source .env
 pip install -r requirements.txt
 
 ```
+
+## Activate Virtual Environment
+
+`source .env`
 
 ## Sources
 
